@@ -15,7 +15,7 @@
 #
 
 PRODUCT_COPY_FILES += \
-	vendor/samsung/kanas3gxx/proprietary/lib/libomx_m4vh263dec_sw_sprd.so:system/lib/libomx_m4vh263dec_sw_sprd.so \
+    vendor/samsung/kanas3gxx/proprietary/lib/libomx_m4vh263dec_sw_sprd.so:system/lib/libomx_m4vh263dec_sw_sprd.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libomx_m4vh263dec_hw_sprd.so:system/lib/libomx_m4vh263dec_hw_sprd.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libomx_m4vh263enc_hw_sprd.so:system/lib/libomx_m4vh263enc_hw_sprd.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libomx_avcdec_hw_sprd.so:system/lib/libomx_avcdec_hw_sprd.so \
@@ -58,14 +58,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kanas3gxx/proprietary/lib/hw/sensors.goldfish.so:system/lib/hw/sensors.goldfish.so \
     vendor/samsung/kanas3gxx/proprietary/lib/hw/sensors.sc8830.so:system/lib/hw/sensors.sc8830.so \
     vendor/samsung/kanas3gxx/proprietary/lib/hw/sprd_gsp.sc8830.so:system/lib/hw/sprd_gsp.sc8830.so \
-	vendor/samsung/kanas3gxx/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
-	vendor/samsung/kanas3gxx/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
-	vendor/samsung/kanas3gxx/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
+    vendor/samsung/kanas3gxx/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+    vendor/samsung/kanas3gxx/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
+    vendor/samsung/kanas3gxx/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/samsung/kanas3gxx/proprietary/lib/modules/mali.ko:system/lib/modules/mali.ko \
     vendor/samsung/kanas3gxx/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
     vendor/samsung/kanas3gxx/proprietary/lib/libAMSWiFiLibs-1.0.6.so:system/lib/libAMSWiFiLibs-1.0.6.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libaudioeffect_jni.so:system/lib/libaudioeffect_jni.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libaudioparameter.so :system/lib/libaudioparameter.so \
+    vendor/samsung/kanas3gxx/proprietary/lib/libaudioparameter.so:system/lib/libaudioparameter.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libaudiopolicy_sec.so:system/lib/libaudiopolicy_sec.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libaudio-resampler.so:system/lib/libaudio-resampler.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libaudiosa.so:system/lib/libaudiosa.so \
@@ -75,7 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kanas3gxx/proprietary/lib/libbt-aptx-4.0.3.so:system/lib/libbt-aptx-4.0.3.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libbt-codec.so:system/lib/libbt-codec.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libbt-fmrds.so :system/lib/libbt-fmrds.so \
+    vendor/samsung/kanas3gxx/proprietary/lib/libbt-fmrds.so:system/lib/libbt-fmrds.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libbt-hci.so:system/lib/libbt-hci.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libbt-utils.so:system/lib/libbt-utils.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libEGL.so:system/lib/libEGL.so \
@@ -83,7 +83,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kanas3gxx/proprietary/lib/libGLES_trace.so:system/lib/libGLES_trace.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libGLESv1_CM.so:system/lib/libGLESv1_CM.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libGLESv2.so:system/lib/libGLESv2.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libGLESv3.so :system/lib/libGLESv3.so \
+    vendor/samsung/kanas3gxx/proprietary/lib/libGLESv3.so:system/lib/libGLESv3.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libion.so:system/lib/libion.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libMali.so:system/lib/libMali.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libmtp.so:system/lib/libmtp.so \
