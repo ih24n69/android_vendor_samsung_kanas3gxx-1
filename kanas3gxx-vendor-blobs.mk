@@ -100,8 +100,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kanas3gxx/proprietary/lib/lib_SoundAlive_ver118t.so:system/lib/lib_SoundAlive_ver118t.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libSoundAlive_VSP_ver315b_arm.so:system/lib/libSoundAlive_VSP_ver315b_arm.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libsprd_agps_agent.so:system/lib/libsprd_agps_agent.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libwpa_client.so:system/lib/libwpa_client.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
+    vendor/samsung/kanas3gxx/proprietary/lib/libwpa_client.so:system/lib/libwpa_client.so
     vendor/samsung/kanas3gxx/proprietary/etc/gps.xml:system/etc/gps.xml \
     vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_soft_mpeg4dec.so:system/lib/libstagefright_sprd_soft_mpeg4dec.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_soft_h264dec.so:system/lib/libstagefright_sprd_soft_h264dec.so \
