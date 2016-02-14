@@ -102,17 +102,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kanas3gxx/proprietary/lib/libsprd_agps_agent.so:system/lib/libsprd_agps_agent.so \
     vendor/samsung/kanas3gxx/proprietary/lib/libwpa_client.so:system/lib/libwpa_client.so
     vendor/samsung/kanas3gxx/proprietary/etc/gps.xml:system/etc/gps.xml \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_soft_mpeg4dec.so:system/lib/libstagefright_sprd_soft_mpeg4dec.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_soft_h264dec.so:system/lib/libstagefright_sprd_soft_h264dec.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_mpeg4dec.so:system/lib/libstagefright_sprd_mpeg4dec.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_mpeg4enc.so:system/lib/libstagefright_sprd_mpeg4enc.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_h264dec.so:system/lib/libstagefright_sprd_h264dec.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_h264enc.so:system/lib/libstagefright_sprd_h264enc.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_vpxdec.so:system/lib/libstagefright_sprd_vpxdec.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_soft_mjpgdec.so:system/lib/libstagefright_soft_mjpgdec.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_soft_imaadpcmdec.so:system/lib/libstagefright_soft_imaadpcmdec.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_aacdec.so:system/lib/libstagefright_sprd_aacdec.so \
-    vendor/samsung/kanas3gxx/proprietary/lib/libstagefright_sprd_mp3dec.so:system/lib/libstagefright_sprd_mp3dec.so \
     vendor/samsung/kanas3gxx/proprietary/etc/audio_hw.xml:system/etc/audio_hw.xml \
     vendor/samsung/kanas3gxx/proprietary/etc/audio_para:system/etc/audio_para \
     vendor/samsung/kanas3gxx/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
