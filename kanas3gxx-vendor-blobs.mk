@@ -139,3 +139,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kanas3gxx/proprietary/media/battery_error.qmg:system/media/battery_error.qmg \
     vendor/samsung/kanas3gxx/proprietary/media/chargingwarning.qmg:system/media/chargingwarning.qmg \
     vendor/samsung/kanas3gxx/proprietary/media/Disconnected.qmg:system/media/Disconnected.qmg
+    vendor/samsung/kanas3gxx/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin
+    vendor/samsung/kanas3gxx/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin
+    vendor/samsung/kanas3gxx/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin
+    vendor/samsung/kanas3gxx/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt
+    vendor/samsung/kanas3gxx/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt
